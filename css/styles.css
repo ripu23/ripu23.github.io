@@ -49,6 +49,16 @@ body.active {
     margin: 0
 }
 
+#responsibilities>ul {
+    color: #74808a;
+    font-size: 0.9em;
+    margin: 0;
+}
+
+#responsibilities>ul>li {
+    margin-top: 1rem;
+}
+
 .no-js #experience-timeline:before, .no-js #experience-timeline:after {
     content: none
 }
